@@ -6,10 +6,10 @@ public class Feature {
     }
 
     void fuck(){
-
+        System.out.println("computer 1");
     }
-    void computer2(){
-        System.out.println("computer 2");
+    void computer1(){
+        System.out.println("computer 1");
     }
 
 }
