@@ -1,5 +1,5 @@
 public class file1 {
-    void pokemo(){
-
+    void a(){
+        System.out.println("1");
     }
 }
