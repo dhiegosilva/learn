@@ -8,4 +8,8 @@ public class Feature {
     void fuck(){
 
     }
+    void computer2(){
+        System.out.println("computer 2");
+    }
+
 }
