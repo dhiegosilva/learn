@@ -10,6 +10,7 @@ public class Feature {
     void computer1(){
         System.out.println("computer 1");
         System.out.println("computer 1");
+        System.out.println("computer 1");
     }
 
 }
